@@ -1,2 +1,2 @@
 # puppet
-puppet related things
+This is where all my puppet related things go
